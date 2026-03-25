@@ -1,0 +1,8 @@
+{
+    "name": "codeigniter4/appstarter",
+    "description": "CodeIgniter4 starter app",
+    "require": {
+        "ardagnsrn/ollama-php": "^1.0"
+    }
+   
+}
